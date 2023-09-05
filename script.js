@@ -1,4 +1,4 @@
-/*
+
 
 
 
@@ -176,4 +176,3 @@ function setUpdate(){
         total_duration.textContent = durationMinutes + ":" + durationSeconds;
     }
 }
-*/
